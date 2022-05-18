@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn aarray">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ArrayArrayan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayArrayan.kt" afterDir="false" />
+    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn aarray with simple lamda">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringTamplet.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayArrayanKt">
+  <component name="RunManager" selected="Kotlin.StringTampletKt">
     <configuration name="ArrayArrayanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayArrayanKt" />
       <module name="BelajarKotlinDicoding.main" />
@@ -68,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataCharKt" />
+    <configuration name="StringTampletKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTampletKt" />
       <module name="BelajarKotlinDicoding.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringTampletKt" />
         <item itemvalue="Kotlin.ArrayArrayanKt" />
         <item itemvalue="Kotlin.IfExpressionsKt" />
         <item itemvalue="Kotlin.FunctionalReturnKt" />
         <item itemvalue="Kotlin.TipeDataStringKt" />
-        <item itemvalue="Kotlin.TipeDataCharKt" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652861724160</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="learn aarray with simple lamda">
+      <created>1652864732649</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652864732649</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +184,7 @@
     <MESSAGE value="learn stirng and indexing" />
     <MESSAGE value="learn if expressions" />
     <MESSAGE value="learn aarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn aarray" />
+    <MESSAGE value="learn aarray with simple lamda" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn aarray with simple lamda" />
   </component>
 </project>
