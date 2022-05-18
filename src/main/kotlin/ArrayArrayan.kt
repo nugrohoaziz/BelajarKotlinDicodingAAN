@@ -5,4 +5,8 @@ fun main() {
     numrun[3] = 6
 
     println(numrun[3])
+    val intArray = Array(4, { i -> i * i })
+    for(lamd in intArray){
+        println(lamd)
+    }
 }
