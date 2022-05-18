@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="commit init">
+    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn hello univers and comment">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeDataChar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeDataString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarValVariable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +48,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.TipeDataStringKt">
     <configuration name="HellowUniversKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HellowUniversKt" />
       <module name="BelajarKotlinDicoding.main" />
@@ -53,8 +56,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TipeDataCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipeDataCharKt" />
+      <module name="BelajarKotlinDicoding.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipeDataStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipeDataStringKt" />
+      <module name="BelajarKotlinDicoding.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarValVariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarValVariableKt" />
+      <module name="BelajarKotlinDicoding.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TipeDataStringKt" />
+        <item itemvalue="Kotlin.TipeDataCharKt" />
+        <item itemvalue="Kotlin.VarValVariableKt" />
         <item itemvalue="Kotlin.HellowUniversKt" />
       </list>
     </recent_temporary>
@@ -75,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652843834357</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learn hello univers and comment">
+      <created>1652844306418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652844306418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit init" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit init" />
+    <MESSAGE value="learn hello univers and comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn hello univers and comment" />
   </component>
 </project>
