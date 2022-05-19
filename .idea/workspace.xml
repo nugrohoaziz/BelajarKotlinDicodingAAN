@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn do while and range">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" afterDir="false" />
+    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn forloop">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652928368846</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="learn forloop">
+      <created>1652928661250</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652928661250</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +232,7 @@
     <MESSAGE value="learn when expressions" />
     <MESSAGE value="learn while condition" />
     <MESSAGE value="learn do while and range" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn do while and range" />
+    <MESSAGE value="learn forloop" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn forloop" />
   </component>
 </project>

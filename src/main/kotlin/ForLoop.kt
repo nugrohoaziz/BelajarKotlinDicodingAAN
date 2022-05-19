@@ -3,4 +3,8 @@ fun main() {
     for ((index, value) in ranges.withIndex()) {
         println("value $value with index $index")
     }
+
+    ranges.forEach { isi ->
+        println(isi)
+    }
 }
