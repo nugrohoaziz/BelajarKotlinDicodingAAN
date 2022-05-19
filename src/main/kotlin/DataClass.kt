@@ -53,7 +53,7 @@ fun main() {
     val age = dataUser.component2()
     println("My name is $name, I am $age years old")
 
-    //
+    //destruction Declarations
     val dataUser1 = DataUser("nrohmen2", 172)
     val (name2, age2) = dataUser1
 
