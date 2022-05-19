@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn while condition" />
+    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn while condition">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoWhileCondition.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Range.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,16 +48,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhileCodisionKt">
-    <configuration name="ArrayArrayanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayArrayanKt" />
+  <component name="RunManager" selected="Kotlin.RangeKt">
+    <configuration name="DoWhileConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileConditionKt" />
       <module name="BelajarKotlinDicoding.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfExpressionsKt" />
+    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangeKt" />
       <module name="BelajarKotlinDicoding.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RangeKt" />
+        <item itemvalue="Kotlin.DoWhileConditionKt" />
         <item itemvalue="Kotlin.WhileCodisionKt" />
         <item itemvalue="Kotlin.WhenExpressionKt" />
         <item itemvalue="Kotlin.StringTampletKt" />
-        <item itemvalue="Kotlin.ArrayArrayanKt" />
-        <item itemvalue="Kotlin.IfExpressionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652927446642</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="learn while condition">
+      <created>1652927503820</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652927503820</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +218,7 @@
     <MESSAGE value="learn aarray with simple lamda" />
     <MESSAGE value="learn String tamplet" />
     <MESSAGE value="learn when expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn when expressions" />
+    <MESSAGE value="learn while condition" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn while condition" />
   </component>
 </project>
