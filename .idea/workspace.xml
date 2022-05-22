@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn lanjutan lamda">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunction.kt" afterDir="false" />
+    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn Higher Order Function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653154153171</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="learn Higher Order Function">
+      <created>1653154720370</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1653154720370</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,6 +322,7 @@
     <MESSAGE value="learn xtended function and extended properties" />
     <MESSAGE value="learn function type dan null reciver" />
     <MESSAGE value="learn lanjutan lamda" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn lanjutan lamda" />
+    <MESSAGE value="learn Higher Order Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn Higher Order Function" />
   </component>
 </project>
