@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn memberrefrencesss lanjutaan">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionInsidee.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn innerrr functtion">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FoldExpression.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FunctionInsideeKt">
+  <component name="RunManager" selected="Kotlin.FoldExpressionKt">
+    <configuration name="FoldExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FoldExpressionKt" />
+      <module name="BelajarKotlinDicoding.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FunctionInsideeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionInsideeKt" />
       <module name="BelajarKotlinDicoding.main" />
@@ -70,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LamddannaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LamddannaKt" />
-      <module name="BelajarKotlinDicoding.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MemberRefrencesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MemberRefrencesKt" />
       <module name="BelajarKotlinDicoding.main" />
@@ -86,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FoldExpressionKt" />
         <item itemvalue="Kotlin.FunctionInsideeKt" />
         <item itemvalue="Kotlin.MemberRefrencesKt" />
         <item itemvalue="Kotlin.LamdaWithReciverKt" />
         <item itemvalue="Kotlin.HigherOrderFunctionKt" />
-        <item itemvalue="Kotlin.LamddannaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653274378222</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="learn innerrr functtion">
+      <created>1653277255819</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1653277255819</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,7 +327,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn hello univers and comment" />
     <MESSAGE value="learn hello univers and data type" />
     <MESSAGE value="learn stirng and indexing" />
     <MESSAGE value="learn if expressions" />
@@ -346,6 +351,7 @@
     <MESSAGE value="learn Higher Order Function 2" />
     <MESSAGE value="learn memberrefrencesss" />
     <MESSAGE value="learn memberrefrencesss lanjutaan" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn memberrefrencesss lanjutaan" />
+    <MESSAGE value="learn innerrr functtion" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn innerrr functtion" />
   </component>
 </project>
