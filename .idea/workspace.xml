@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn membuat calss sederhana">
+    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn membuat calss sederhana getter and setter">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/PropertyDelegasi.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OOP/Binatang.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/Binatang.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.BinatangKt">
+  <component name="RunManager" selected="Kotlin.PropertyDelegasiKt">
     <configuration name="BinatangKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.BinatangKt" />
       <module name="BelajarKotlinDicoding.main" />
@@ -70,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberRefrencesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MemberRefrencesKt" />
-      <module name="BelajarKotlinDicoding.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ObjectEveryWhareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.ObjectEveryWhareKt" />
       <module name="BelajarKotlinDicoding.main" />
@@ -84,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PropertyDelegasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.PropertyDelegasiKt" />
+      <module name="BelajarKotlinDicoding.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PropertyDelegasiKt" />
         <item itemvalue="Kotlin.BinatangKt" />
         <item itemvalue="Kotlin.ObjectEveryWhareKt" />
         <item itemvalue="Kotlin.FoldExpressionKt" />
         <item itemvalue="Kotlin.FunctionInsideeKt" />
-        <item itemvalue="Kotlin.MemberRefrencesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653288812210</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="learn membuat calss sederhana getter and setter">
+      <created>1653289759804</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1653289759804</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,7 +356,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn aarray" />
     <MESSAGE value="learn aarray with simple lamda" />
     <MESSAGE value="learn String tamplet" />
     <MESSAGE value="learn when expressions" />
@@ -374,6 +380,7 @@
     <MESSAGE value="learn fold" />
     <MESSAGE value="learn kotlin Objek Eveery Whare" />
     <MESSAGE value="learn membuat calss sederhana" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn membuat calss sederhana" />
+    <MESSAGE value="learn membuat calss sederhana getter and setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn membuat calss sederhana getter and setter" />
   </component>
 </project>
