@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn property delegasi">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/ExtensiPropertii.kt" afterDir="false" />
+    <list default="true" id="5d3b3382-435c-43c4-a6ab-b18020a93e04" name="Changes" comment="learn extensi property">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/BlokInit.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OOP/PropertyDelegasi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/PropertyDelegasi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +49,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ExtensiPropertiiKt">
-    <configuration name="BinatangKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.BinatangKt" />
+  <component name="RunManager" selected="Kotlin.PropertyDelegasiKt">
+    <configuration name="ArrayArrayanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayArrayanKt" />
+      <module name="BelajarKotlinDicoding.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
       <module name="BelajarKotlinDicoding.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,15 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FoldExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FoldExpressionKt" />
-      <module name="BelajarKotlinDicoding.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjectEveryWhareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.ObjectEveryWhareKt" />
+    <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
       <module name="BelajarKotlinDicoding.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ExtensiPropertiiKt" />
         <item itemvalue="Kotlin.PropertyDelegasiKt" />
-        <item itemvalue="Kotlin.BinatangKt" />
-        <item itemvalue="Kotlin.ObjectEveryWhareKt" />
-        <item itemvalue="Kotlin.FoldExpressionKt" />
+        <item itemvalue="Kotlin.ExtensiPropertiiKt" />
+        <item itemvalue="Kotlin.ForLoopKt" />
+        <item itemvalue="Kotlin.BreakContinueKt" />
+        <item itemvalue="Kotlin.ArrayArrayanKt" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653294790905</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="learn extensi property">
+      <created>1653296747510</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1653296747510</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,14 +371,25 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="learn String tamplet" />
     <MESSAGE value="learn when expressions" />
     <MESSAGE value="learn while condition" />
     <MESSAGE value="learn do while and range" />
@@ -395,6 +414,7 @@
     <MESSAGE value="learn membuat calss sederhana" />
     <MESSAGE value="learn membuat calss sederhana getter and setter" />
     <MESSAGE value="learn property delegasi" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn property delegasi" />
+    <MESSAGE value="learn extensi property" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn extensi property" />
   </component>
 </project>
